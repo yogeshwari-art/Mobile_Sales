@@ -2,6 +2,9 @@
 This project will tells you the sales of mobile models and brands based on 2021 sales
 
 Mobile Sales Performance Analysis — Executive Summary DATASET: <a href = "https://github.com/yogeshwari-art/Mobile_Sales/blob/main/Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx"> Mobile Sales </a>
+
+<img width="604" height="340" alt="Dashboard image" src="https://github.com/user-attachments/assets/bd51136e-b5c7-4303-a265-f1f390d92847" />
+
 1. Key Performance Metrics
 •	Total Sales: $729M (calculated using SUMX(Unit Sold × Price per Unit))
 •	Total Quantity Sold: Aggregate units across 12 months
